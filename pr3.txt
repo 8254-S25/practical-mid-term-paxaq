@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root        root        4096 Jun 18 15:53 .
+4 drwxr-xr-x 18 root        root        4096 May 13 01:17 ..
+4 drwx------ 15 pi          pi          4096 Jun 18 15:56 pi
+4 drwxr-xr-x  2 zhiqiangpan zhiqiangpan 4096 Jun 18 15:53 zhiqiangpan
